@@ -14,6 +14,11 @@ The rest of mechanical design process is going to be as follows:
 - Wind the magnet wire around the stator in a Y configuration.
 - Insert the magnets and glue any parts that need it.
 
+My current objectives for the ESC are as follows:
+- Generate a block diagram that utilizes the following components: 3 phase half bridge, BLDC sensorless motor driver, arduino to generate PWM.
+- Generate a circuit schematic that indicates correctly rated power transistors and power resistors.
+- Design a PCB layout from the schematic and have it manufactured.
+
 To test the motor, I'm going to be using an off the shelf ESC for BLDC motors. I aim to identify the maximum torque, power, rpm and voltage/current ratings for the motor.
 
 I will continue to design a PCB layout for my own ESC and then print and assemble the ESC, and retest the motor with new ESC.
