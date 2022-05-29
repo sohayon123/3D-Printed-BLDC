@@ -1,4 +1,4 @@
-# BLDC and ESC
+# BLDC
 
 This project is still in progress! 
 
