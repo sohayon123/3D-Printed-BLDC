@@ -8,4 +8,6 @@ I've designed version 1 of this motor and 3D printed it with PETG and iron infus
 
 
 
-![motor](https://github.com/sohayon123/3D-Printed-BLDC/blob/main/Motor%20Pictures/IMG_2353.jpg)
+![motor](https://github.com/sohayon123/3D-Printed-BLDC/blob/main/Motor%20Pictures/IMG_2353.jpg) width="50%" height="50%">
+
+
